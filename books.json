@@ -1,5 +1,28 @@
 [
   {
+    "title": "Шыбын",
+    "author": "Бека",
+    "genre": "Novels",
+    "coverUrl": "https://placehold.co/600x900?text=ALASH",
+    "content": "Олнгггггг",
+    "description": "Не",
+    "yearPublished": "2026",
+    "status": "ongoing",
+    "tags": [
+      "драма"
+    ],
+    "chaptersCount": 1,
+    "id": "e539dfdb-74a7-48d8-9103-25fa308df85b",
+    "slug": "shybyn",
+    "createdAt": 1791913631691,
+    "rating": 0,
+    "publishedBy": "EhIBwR6BStXTIjNDj9x0otoBmCy2",
+    "moderationStatus": "pending_moderation",
+    "viewsCount": 0,
+    "likesCount": 0,
+    "commentsCount": 0
+  },
+  {
     "title": "Өліара",
     "author": "Төлен Әбдіков",
     "genre": "Роман",
