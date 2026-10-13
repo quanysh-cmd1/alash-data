@@ -1,5 +1,28 @@
 [
   {
+    "title": "ирр",
+    "author": "Бека",
+    "genre": "Novels",
+    "coverUrl": "ррр",
+    "content": "рр",
+    "description": "рр",
+    "yearPublished": "2026",
+    "status": "ongoing",
+    "tags": [
+      "ррр"
+    ],
+    "chaptersCount": 1,
+    "id": "1d16c09d-ecf3-46f4-be4f-0f0ef222676e",
+    "slug": "irr",
+    "createdAt": 1791913739304,
+    "rating": 0,
+    "publishedBy": "EhIBwR6BStXTIjNDj9x0otoBmCy2",
+    "moderationStatus": "pending_moderation",
+    "viewsCount": 0,
+    "likesCount": 0,
+    "commentsCount": 0
+  },
+  {
     "title": "Шыбын",
     "author": "Бека",
     "genre": "Novels",
