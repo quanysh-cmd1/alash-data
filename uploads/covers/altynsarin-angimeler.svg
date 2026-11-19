@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#123C36"/>
+      <stop offset="100%" stop-color="#09211E"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="900" fill="url(#bg)"/>
+  <rect x="28" y="28" width="544" height="844" fill="none" stroke="#E5C158" stroke-width="2" stroke-opacity="0.65"/>
+  <rect x="40" y="40" width="520" height="820" fill="none" stroke="#E5C158" stroke-width="1" stroke-opacity="0.35"/>
+  <circle cx="300" cy="145" r="34" fill="none" stroke="#E5C158" stroke-width="2" stroke-opacity="0.8"/>
+  <polygon points="300,118 327,145 300,172 273,145" fill="none" stroke="#E5C158" stroke-width="1.8"/>
+  <text x="300" y="235" text-anchor="middle" fill="#E5C158" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">ЫБЫРАЙ АЛТЫНСАРИН</text>
+  <line x1="180" y1="262" x2="420" y2="262" stroke="#E5C158" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="300" y="330" text-anchor="middle" fill="#FAF6EE" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">Қазақ</text>
+  <text x="300" y="384" text-anchor="middle" fill="#FAF6EE" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">хрестоматиясы</text>
+  <text x="300" y="438" text-anchor="middle" fill="#FAF6EE" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700">(Әңгімелер)</text>
+  <line x1="220" y1="680" x2="380" y2="680" stroke="#E5C158" stroke-width="1.5" stroke-opacity="0.6"/>
+  <text x="300" y="730" text-anchor="middle" fill="#E5C158" font-family="Georgia, serif" font-size="22" font-style="italic">1879 ж.</text>
+  <text x="300" y="810" text-anchor="middle" fill="#FAF6EE" fill-opacity="0.65" font-family="Arial, sans-serif" font-size="14" letter-spacing="3">ALASH · ҚОҒАМДЫҚ ИГІЛІК</text>
+</svg>
